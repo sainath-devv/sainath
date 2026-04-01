@@ -272,7 +272,7 @@ const Navbar: React.FC = () => {
                 <div className="w-full h-[1px] bg-white/10"></div>
                 <div className="flex gap-8 text-white/40">
                   <a href="https://github.com/sainath-devv" className="hover:text-white transition-colors"><Github size={24} strokeWidth={1.5} /></a>
-                  <a href="www.linkedin.com/in/sainath9870" className="hover:text-white transition-colors"><Linkedin size={24} strokeWidth={1.5} /></a>
+                  <a href="https://www.linkedin.com/in/sainath9870/" className="hover:text-white transition-colors"><Linkedin size={24} strokeWidth={1.5} /></a>
                 </div>
               </motion.div>
             </div>
