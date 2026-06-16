@@ -22,7 +22,7 @@ const projects: Project[] = [
     id: 1,
     title: "Seed - Mechnido",
     category: "UI/UX Design & Web Development",
-    year: "2024",
+    year: "2023",
     image: "https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/Grozon%20(2).jpg",
     description: "Rebuilt the website with a focus on intuitive UI/UX, strengthening my understanding of user behavior and modern design practices",
     href: "https://mseedsaiduplicate.netlify.app/"
@@ -31,7 +31,7 @@ const projects: Project[] = [
     id: 2,
     title: "Grozon",
     category: "Web Development",
-    year: "2024",
+    year: "2026",
     image: "https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/Grozon%20(1).jpg",
     description: "‘Grozon’ – an educational learning and career path platform for a startup, where I worked on recreating the website and gained a strong understanding of design and development workflows.",
     href: "https://grozon.vercel.app/#home"
@@ -40,7 +40,7 @@ const projects: Project[] = [
     id: 3,
     title: "Tnvista",
     category: "Web Development",
-    year: "2024",
+    year: "2025",
     image: "https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/Grozon%20(3).jpg",
     description: "",
     href: "#"
@@ -49,7 +49,7 @@ const projects: Project[] = [
     id: 4,
     title: "Joy Water Sports",
     category: "Web Development",
-    year: "2023",
+    year: "2025",
     image: "https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/Grozon%20(4).jpg",
     description: "",
     href: "https://joywatersports1.vercel.app/"
