@@ -23,7 +23,7 @@ const projects: Project[] = [
     title: "Seed - Mechnido",
     category: "UI/UX Design & Web Development",
     year: "2024",
-    image: "https://kbolnguksoixmiwwgxbl.supabase.co/storage/v1/object/public/project/Seed.jpg",
+    image: "https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/Grozon%20(2).jpg",
     description: "Rebuilt the website with a focus on intuitive UI/UX, strengthening my understanding of user behavior and modern design practices",
     href: "https://mseedsaiduplicate.netlify.app/"
   },
@@ -41,7 +41,7 @@ const projects: Project[] = [
     title: "Tnvista",
     category: "Web Development",
     year: "2024",
-    image: "https://kbolnguksoixmiwwgxbl.supabase.co/storage/v1/object/public/project/Soon.jpg",
+    image: "https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/Grozon%20(3).jpg",
     description: "",
     href: "#"
   },
@@ -50,9 +50,9 @@ const projects: Project[] = [
     title: "Joy Water Sports",
     category: "Web Development",
     year: "2023",
-    image: "https://kbolnguksoixmiwwgxbl.supabase.co/storage/v1/object/public/project/Soon.jpg",
+    image: "https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/Grozon%20(4).jpg",
     description: "",
-    href: "#"
+    href: "https://joywatersports1.vercel.app/"
   }
 ];
 
