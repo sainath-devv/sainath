@@ -32,7 +32,7 @@ const projects: Project[] = [
     title: "Grozon",
     category: "Web Development",
     year: "2024",
-    image: "https://kbolnguksoixmiwwgxbl.supabase.co/storage/v1/object/public/project/Grozon.jpg",
+    image: "https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/Grozon%20(1).jpg",
     description: "‘Grozon’ – an educational learning and career path platform for a startup, where I worked on recreating the website and gained a strong understanding of design and development workflows.",
     href: "https://grozon.vercel.app/#home"
   },
