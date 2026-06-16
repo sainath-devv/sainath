@@ -65,7 +65,7 @@ const Hero: React.FC<{ isLoaded: boolean }> = ({ isLoaded }) => {
           transition={{ 
             opacity: { duration: 2, ease: [0.22, 1, 0.36, 1] }
           }}
-          src="https://kbolnguksoixmiwwgxbl.supabase.co/storage/v1/object/public/project/Picsart_26-04-01_12-12-06-542.jpg.jpeg" 
+          src="https://ubitbdocjzffvfkketyr.supabase.co/storage/v1/object/public/JWS/saihero.jpeg" 
           alt="Portrait" 
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
